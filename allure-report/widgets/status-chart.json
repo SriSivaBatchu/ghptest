@@ -1,0 +1,201 @@
+[ {
+  "uid" : "3582cc5cd4c83173",
+  "name" : "displays two todo items by default",
+  "time" : {
+    "start" : 1670693677639,
+    "stop" : 1670693678855,
+    "duration" : 1216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96510a2cef183ab4",
+  "name" : ".click() - click on a DOM element",
+  "time" : {
+    "start" : 1670693658893,
+    "stop" : 1670693661737,
+    "duration" : 2844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29c49395891c60a6",
+  "name" : ".dblclick() - double click on a DOM element",
+  "time" : {
+    "start" : 1670693661745,
+    "stop" : 1670693662161,
+    "duration" : 416
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26232e44bcb27c46",
+  "name" : ".submit() - submit a form",
+  "time" : {
+    "start" : 1670693658317,
+    "stop" : 1670693658886,
+    "duration" : 569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69e6f5a99e747f9c",
+  "name" : "cy.scrollTo() - scroll the window or element to a position",
+  "time" : {
+    "start" : 1670693666626,
+    "stop" : 1670693668850,
+    "duration" : 2224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c526140fceb0b11",
+  "name" : ".uncheck() - uncheck a checkbox element",
+  "time" : {
+    "start" : 1670693663663,
+    "stop" : 1670693664886,
+    "duration" : 1223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a7b3f73efe0db9b",
+  "name" : ".trigger() - trigger an event on a DOM element",
+  "time" : {
+    "start" : 1670693666306,
+    "stop" : 1670693666622,
+    "duration" : 316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59b899e344aa0285",
+  "name" : ".scrollIntoView() - scroll an element into view",
+  "time" : {
+    "start" : 1670693666064,
+    "stop" : 1670693666293,
+    "duration" : 229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84b3017c188b0630",
+  "name" : "can filter for completed tasks",
+  "time" : {
+    "start" : 1670693680258,
+    "stop" : 1670693680794,
+    "duration" : 536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "141966e870eca1f5",
+  "name" : "can check off an item as completed",
+  "time" : {
+    "start" : 1670693679456,
+    "stop" : 1670693679737,
+    "duration" : 281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4c5b4ae73236535",
+  "name" : ".rightclick() - right click on a DOM element",
+  "time" : {
+    "start" : 1670693662165,
+    "stop" : 1670693662470,
+    "duration" : 305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b532ef8e3110367",
+  "name" : ".focus() - focus on a DOM element",
+  "time" : {
+    "start" : 1670693656731,
+    "stop" : 1670693656995,
+    "duration" : 264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff9002285bcec3dd",
+  "name" : "can add new todo items",
+  "time" : {
+    "start" : 1670693678872,
+    "stop" : 1670693679448,
+    "duration" : 576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83d8f21458204238",
+  "name" : "can filter for uncompleted tasks",
+  "time" : {
+    "start" : 1670693679745,
+    "stop" : 1670693680251,
+    "duration" : 506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1a75928868586a7",
+  "name" : ".check() - check a checkbox or radio element",
+  "time" : {
+    "start" : 1670693662476,
+    "stop" : 1670693663657,
+    "duration" : 1181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc1a266d53c6c8c9",
+  "name" : "can delete all completed tasks",
+  "time" : {
+    "start" : 1670693680802,
+    "stop" : 1670693681499,
+    "duration" : 697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2f41f217a204d0e",
+  "name" : ".clear() - clears an input or textarea element",
+  "time" : {
+    "start" : 1670693657596,
+    "stop" : 1670693658310,
+    "duration" : 714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8a917b5280f4d2a",
+  "name" : ".type() - type into a DOM element",
+  "time" : {
+    "start" : 1670693650647,
+    "stop" : 1670693656705,
+    "duration" : 6058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ed316a3ea11e0f9",
+  "name" : ".blur() - blur off a DOM element",
+  "time" : {
+    "start" : 1670693657010,
+    "stop" : 1670693657586,
+    "duration" : 576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2f5241621a871c7",
+  "name" : ".select() - select an option in a <select> element",
+  "time" : {
+    "start" : 1670693664893,
+    "stop" : 1670693666057,
+    "duration" : 1164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
